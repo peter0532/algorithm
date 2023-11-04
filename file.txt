@@ -1,0 +1,45 @@
+The length of sentence 
+step 1:
+create a variable to hold sentence.
+step 2:
+create a variable to hold character count.
+step 3: 
+read through the character and add 1 to variable character count.
+step 4: 
+on point reach stop counting.
+step 5: 
+print count.
+
+
+.The number of words in the sentence
+step 1:
+create a variable to hold the sentence.
+step 2:
+create a variable to hold word count.
+step 3:
+read through the sentence character by character .
+step 4:
+on getting to space add 1 to word count.
+step 5:
+repeat step 3 and step 4.
+step 6:
+on point reach stop counting,
+step 7:
+print word count.
+
+
+.The number of vowels in the sentence
+step 1:
+create a variable to hold the sentence.
+step 2:
+create a variable to hold vowels character.
+step 3:
+create a varaible to hold vowels count.
+step 4:
+read through the sentece character by character to compare the character to vowels character
+step 5:
+if the sentence character matches any of the vowels character add 1 to vowels count.
+step 6:
+on point reach stop counting.
+step 7:
+print count
